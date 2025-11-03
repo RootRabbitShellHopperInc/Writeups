@@ -2,4 +2,6 @@ Hello fellow Shell Hoppers ! A new assignment has come into Shell Hopper Inc. We
 
 In this particular case, we're going to be checking out IP 10.201.83.59.
 
-There are a series of 3 questions
+There are a series of 3 preliminary questions that we're given: 
+
+How many open ports ?
