@@ -57,3 +57,5 @@ Bingo ! We got a hit in CyberChef with a Base64 decode that reveals "flag{f1rs7_
 
 ## Hunt for the second flag
 
+![](../Pasted%20image%2020251103173029.png)
+
