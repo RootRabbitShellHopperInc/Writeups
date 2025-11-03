@@ -24,6 +24,8 @@ C. Apache
 
 Let's start by enumerating this machine some more to find hidden pages associated with the host website. I'll start by using the following command in gobuster: `gobuster dir -u http://10.201.83.59 -b 404`. We'll add the -b 404 to filter out 404 status codes, as we will likely have many of them. 
 
+## Hunt for the first flag
+
 We get a hit here with the directory "hidden".
 
 ![](../Pasted%20image%2020251103164406.png)
@@ -47,8 +49,11 @@ Beside hidden, there appears to be some type of hash. Lets check it out in Cyber
 
 ![](../Pasted%20image%2020251103165127.png)
 
-## First Flag
+### First Flag
 
 Bingo ! We got a hit in CyberChef with a Base64 decode that reveals "flag{f1rs7_fl4g}"
 
 ![](../Pasted%20image%2020251103165258.png)
+
+## Hunt for the second flag
+
