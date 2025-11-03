@@ -43,6 +43,12 @@ We're greeted with a page that reads "dead end". Poking around in the source cod
 
 ![](../Pasted%20image%2020251103165047.png)
 
-Beside hidden looks like some type of 
+Beside hidden, there appears to be some type of hash. Lets check it out in CyberChef and see if anything interesting happens. 
 
 ![](../Pasted%20image%2020251103165127.png)
+
+## First Flag
+
+Bingo ! We got a hit in CyberChef with a Base64 decode that reveals "flag{f1rs7_fl4g}"
+
+![](../Pasted%20image%2020251103165258.png)
