@@ -1,0 +1,1 @@
+Hello fellow Shell Hoppers ! A new assignment has come into Shell Hopper Inc. We're tasked with using nmap to scope out a website and later compromising the machine to find the flags.
