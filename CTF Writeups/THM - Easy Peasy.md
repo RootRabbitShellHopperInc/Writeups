@@ -13,3 +13,5 @@ What is the version of nginix ?
 
 
 What is running on the highest port ?
+
+We can tackle these three questions using nmap. I used the following command to obtain the answers: `nmap -sS -p- -vv -A`
