@@ -35,4 +35,14 @@ We're greeted with a simple page that says "Welcome to CTF". Checking the source
 ![](../Pasted%20image%2020251103164649.png)
 ![](../Pasted%20image%2020251103164743.png)
 
-So let's try to enum
+So let's try to enumerate this directory and see what we can find using the same command. Let's just be sure that we change the url to reflect the hidden directory. 
+
+![](../Pasted%20image%2020251103165029.png)
+
+We're greeted with a page that reads "dead end". Poking around in the source code for this page reveals something interesting.
+
+![](../Pasted%20image%2020251103165047.png)
+
+Beside hidden looks like some type of 
+
+![](../Pasted%20image%2020251103165127.png)
