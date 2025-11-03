@@ -31,4 +31,8 @@ We get a hit here with the directory "hidden".
 Let's jump to the "hidden" page and see what they have for us. 
 
 We're greeted with a simple page that says "Welcome to CTF". Checking the source code there doesn't appear to be anything of interest there. 
+
 ![](../Pasted%20image%2020251103164649.png)
+![](../Pasted%20image%2020251103164743.png)
+
+So let's try to enum
