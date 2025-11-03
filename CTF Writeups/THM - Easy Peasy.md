@@ -22,3 +22,4 @@ C. Apache
 
 ## Compromising the Machine
 
+Let's start by enumerating this machine some more to find hidden pages associated with the host website. I'll start by using the following command in gobuster: `gobuster dir -u http://10.201.83.59 -b 404`. We'll add the -b 404 to filter out 404 status codes
