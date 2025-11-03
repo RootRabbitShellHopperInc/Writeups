@@ -24,5 +24,11 @@ C. Apache
 
 Let's start by enumerating this machine some more to find hidden pages associated with the host website. I'll start by using the following command in gobuster: `gobuster dir -u http://10.201.83.59 -b 404`. We'll add the -b 404 to filter out 404 status codes, as we will likely have many of them. 
 
-We get a hit here with the directory "hidden". This will be added to our /etc/hosts through gobuster. 
+We get a hit here with the directory "hidden".
+
 ![](../Pasted%20image%2020251103164406.png)
+
+Let's jump to the "hidden" page and see what they have for us. 
+
+We're greeted with a simple page that says "Welcome to CTF". Checking the source code there doesn't appear to be anything of interest there. 
+![](../Pasted%20image%2020251103164649.png)
