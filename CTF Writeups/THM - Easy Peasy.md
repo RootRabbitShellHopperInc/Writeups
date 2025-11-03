@@ -4,4 +4,12 @@ In this particular case, we're going to be checking out IP 10.201.83.59.
 
 There are a series of 3 preliminary questions that we're given: 
 
+### Questions
 How many open ports ?
+
+
+What is the version of nginix ?
+
+
+
+What is running on the highest port ?
