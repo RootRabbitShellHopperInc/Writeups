@@ -133,7 +133,7 @@ Ladies and gentlemen, we have our password !
 
 Something I also noticed upon viewing the source code for the page, was a locally stored jpeg file entitled "binarycodepixabay.jpg". It's a shot in the dark, but we could run an autopsy on the metadata of this image and see what lies within. 
 
-For some reason the actual autopsy application I couldn't get to run, so I installed a different program called steghide and stegseek that can more or less do what I was looking for.
+For some reason the actual autopsy application I couldn't get to run, so I installed some different programs called steghide and stegseek that can more or less do what I was looking for.
 
 Here is the command I used for stegseek: `stegseek easypeasybinary.jpg easypeasy.txt`
 
@@ -145,10 +145,10 @@ I used the following command with steghide to extract the data using the followi
 
 ![](../Pasted%20image%2020251103210242.png)
 
-We can now cat the contents of secrettext.txt which reveals a username and password. 
+We can now `cat` the contents of secrettext.txt which reveals a username and password. 
 
-username: boring
-password: 01101001 01100011 01101111 01101110 01110110 01100101 01110010 01110100 01100101 01100100 01101101 01111001 01110000 01100001 01110011 01110011 01110111 01101111 01110010 01100100 01110100 01101111 01100010 01101001 01101110 01100001 01110010 01111001
+**username: boring
+password: 01101001 01100011 01101111 01101110 01110110 01100101 01110010 01110100 01100101 01100100 01101101 01111001 01110000 01100001 01110011 01110011 01110111 01101111 01110010 01100100 01110100 01101111 01100010 01101001 01101110 01100001 01110010 01111001**
 
 This password clearly appears to be binary, so let's pop that into CyberChef and see what it gives us.
 
@@ -156,7 +156,7 @@ This password clearly appears to be binary, so let's pop that into CyberChef and
 
 ![](../Pasted%20image%2020251103210641.png)
 
-Now that we have the password, let's update our credentials to move on to the next phase of the host exploitation.
+Now that we have the password, let's update our credentials and move on to the next phase of the host exploitation.
 
 **user: boring
 password: iconvertedmypasswordtobinary**
