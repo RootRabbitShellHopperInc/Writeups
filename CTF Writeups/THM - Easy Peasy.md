@@ -61,4 +61,7 @@ Bingo ! We got a hit in CyberChef with a Base64 decode that reveals "flag{f1rs7_
 
 *Note: I switched to my kali OS rather than the AttackBox at this time for faster response times whilst enumerating, so the target IP will differ from here on to 10.201.66.137.*
 
-Here I was stuck for a bit
+Here I was stuck for a bit and felt like I was out of options until I took a look back at my nmap scan. I noticed that on port 65524 there was a robots.txt file that I hadn't noticed previously. 
+
+![](../Pasted%20image%2020251103190936.png)
+
