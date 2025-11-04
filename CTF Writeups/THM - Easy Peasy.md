@@ -172,3 +172,5 @@ So let's invoke our ssh command which is as follows:
 We're greeted by this weird message regarding an AC-130 firing and some government blah blah blah. Let's poke around and see what we can find. 
 
 ![](../Pasted%20image%2020251103211509.png)
+
+We find a flag that is apparently rotated. As always our go to will be CyberChef and see what its best guess is. Maybe we'll get lucky =)
