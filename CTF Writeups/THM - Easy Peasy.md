@@ -51,7 +51,7 @@ Beside hidden, there appears to be some type of encoded line or hash. Let's chec
 
 ### First Flag
 
-Bingo ! We got a hit in CyberChef with a Base64 decode that reveals "flag{f1rs7_fl4g}"
+Bingo ! We got a hit in CyberChef with a Base64 decode that reveals **flag{f1rs7_fl4g}**
 
 ![](../Pasted%20image%2020251103165258.png)
 
@@ -80,5 +80,8 @@ Unfortunately Crack Station couldn't help here either. We'll most likely need a 
 
 ![](../Pasted%20image%2020251103192115.png)
 
-And presto, we have our second flag ! flag{1m_s3c0nd_fl4g}
+And presto, we have our second flag ! **flag{1m_s3c0nd_fl4g}**
 ![](../Pasted%20image%2020251103192202.png)
+
+## Hunt for the third flag
+
