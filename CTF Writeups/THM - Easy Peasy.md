@@ -179,6 +179,8 @@ We find a flag that is apparently rotated. As always our go to will be CyberChef
 
 Another flag secure after trying ROT13. **flag{n0wits33msn0rm4l}**
 
+## Getting Root 
+
 *Note: There was a problem with the machine expiring and I got kicked out. The new IP address will be 10.201.37.73*
 
 I tried to run sudo -l to see which permissions the current user to use sudo for and this account was not part of the sudoers group.
@@ -214,3 +216,11 @@ Annnnnd we're in !
 
 ![](../Pasted%20image%2020251103214339.png)
 
+Next let's head to the root directory and run `ls -la`
+
+![](../Pasted%20image%2020251103214537.png)
+
+Now we cat .root.txt and get: **flag{63a9f0ea7bb98050796b649e85481845}**
+
+
+Great job Shell Hoppers, that was a tough o
