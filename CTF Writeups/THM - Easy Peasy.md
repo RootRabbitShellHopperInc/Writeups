@@ -116,3 +116,7 @@ We find an interesting string inside the paragraph tag. **940d71e8655ac41efb5f8a
 
 We're told we need to use the provided wordlist to crack this hash, so let's pull out one of my favorite password cracking tools, John the Ripper !
 
+First lets save this hash into a txt file so JTR is able to read it. 
+
+![](../Pasted%20image%2020251103201246.png)
+
