@@ -135,7 +135,11 @@ Something I also noticed upon viewing the source code for the page, was a locall
 
 For some reason the actual autopsy application I couldn't get to run, so I installed a different program called stegseek that can more or less do what I was looking for.
 
+Here is invoked command I used for stegseek: `stegseek easypeasybinary.jpg easypeasy.txt`
 
+![](../Pasted%20image%2020251103205435.png)
+
+Interesting, not only did it give us the password, it also revealed a new file called "secrettxt.txt"
 
 ## SSH Into the Machine
 
