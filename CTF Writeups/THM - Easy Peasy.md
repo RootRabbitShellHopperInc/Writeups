@@ -65,7 +65,7 @@ Here I was stuck for a bit and felt like I was out of options until I took a loo
 
 ![](../Pasted%20image%2020251103190936.png)
 
-So I hop to the URL and find an interesting user-agent:
+So I hop to the URL and find an interesting user-agent: a18672860d0510e5ab6699730763b250
 
 ![](../Pasted%20image%2020251103191110.png)
 
