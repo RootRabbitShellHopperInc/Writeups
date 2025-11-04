@@ -131,3 +131,9 @@ Let's finally crack this password by invoking the following command:
 
 Ladies and gentlemen, we have our password !
 
+## SSH Into the Machine
+
+Next we are tasked with logging in remotely to the target machine.
+Let's start by enumerating our newest directory and see what comes up.
+
+![](../Pasted%20image%2020251103202600.png)
