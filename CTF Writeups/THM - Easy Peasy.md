@@ -173,4 +173,9 @@ We're greeted by this weird message regarding an AC-130 firing and some governme
 
 ![](../Pasted%20image%2020251103211509.png)
 
-We find a flag that is apparently rotated. As always our go to will be CyberChef and see what its best guess is. Maybe we'll get lucky =)
+We find a flag that is apparently rotated. As always our go to will be CyberChef and see what we can cook up ! Using the rotated hint, let's look through the ROT configurations and see what the output is. 
+
+![](../Pasted%20image%2020251103211806.png)
+
+Another flag secure after trying ROT13. **flag{n0wits33msn0rm4l}**
+
