@@ -106,7 +106,7 @@ Jackpot ! This was base62 encoded and it seems to have given us a hidden directo
 
 ![](../Pasted%20image%2020251103195930.png)
 
-It seems we have entered the matrix lol.
+It seems we have entered the matrix, lol.
 
 First things first, we take a look at the source code.
 
