@@ -76,4 +76,5 @@ I thought this could be some type of hash and went to https://crackstation.net/ 
 
 ![](../Pasted%20image%2020251103191523.png)
 
-Unfortunately Crack Station couldn't help here either. We'll most likely need a more powerful hash cracking tool to progress further.
+Unfortunately Crack Station couldn't help here either. We'll most likely need a more powerful hash cracking tool to progress further. After a bit of research online, I discovered a website called https://md5hashing.net/ that may be able to help. 
+
