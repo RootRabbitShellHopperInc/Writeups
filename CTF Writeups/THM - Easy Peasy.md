@@ -153,6 +153,13 @@ password: 01101001 01100011 01101111 01101110 01110110 01100101 01110010 0111010
 This password clearly appears to be binary, so let's pop that into CyberChef and see what it gives us.
 
 ![](../Pasted%20image%2020251103210355.png)
+
+![](../Pasted%20image%2020251103210641.png)
+
+Now that we have the password, let's update our credentials to move on to the next phase of the host exploitation.
+
+user: boring
+pass
 ## SSH Into the Machine
 
 Next we are tasked with logging in remotely to the target machine.
