@@ -98,5 +98,8 @@ As usual, I'm going to pop it into Cyber Chef and see if it can decipher this fo
 
 Cyber Chef seems to think this could be base64 or base85 Although, neither option produced a human-readable result. Neither crackstation or md5hasing.net could produce a result for us. Let's try local hash cracking tool called hashcat. Looking back at the assignment questions, we are instructed to use the downloadable wordlist to crack this hash. 
 
-But first, to use hashcat, we will need to know what type of hash we are working with. So we will need to use hashid. 
+But first, to use hashcat, we will need to know what type of hash we are working with. So we will need to use hashid with the following command: 
+
+`hashid ObsJmP173N2X6dOrAgEAL0Vu`
+![](../Pasted%20image%2020251103194935.png)
 
