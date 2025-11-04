@@ -131,7 +131,9 @@ Let's finally crack this password by invoking the following command:
 
 Ladies and gentlemen, we have our password !
 
-Something I also noticed upon viewing teh source code for the page, was a locally stored jpeg file entitled "binarycodepixabay.jpg". It's a shot in the dark, but we could run an autopsy on the metadata of this image and see what lies within. 
+Something I also noticed upon viewing the source code for the page, was a locally stored jpeg file entitled "binarycodepixabay.jpg". It's a shot in the dark, but we could run an autopsy on the metadata of this image and see what lies within. 
+
+For some reason the actual autopsy application I couldn't get to run, so I installed a different program called stegseek that can more or less do what I was looking for.
 
 
 
