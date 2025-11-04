@@ -92,18 +92,15 @@ Nothing Immediately stood out to me. Let's take a look at the source code and se
 
 ![](../Pasted%20image%2020251103195419.png)
 
-Thankfully, flag 3 is right out there in the open up for grabs !
+Thankfully, flag 3 is right out there in the open up for grabs ! flag{9fdafbd64c47471a8f54cd3fc64cd312}
 
 ![](../Pasted%20image%2020251103192748.png)
 
-As usual, I'm going to pop it into Cyber Chef and see if it can decipher this for us.
+As usual, I'm going to pop it into CyberChef and see if it can decipher this for us using the hint that it could be base encoded
 
 ![](../Pasted%20image%2020251103193048.png)
 
-Cyber Chef seems to think this could be base64 or base85 Although, neither option produced a human-readable result. Neither crackstation or md5hasing.net could produce a result for us. Let's try local hash cracking tool called hashcat. Looking back at the assignment questions, we are instructed to use the downloadable wordlist to crack this hash. 
 
-But first, to use hashcat, we will need to know what type of hash we are working with. So we will need to use hashid with the following command: 
 
-`hashid ObsJmP173N2X6dOrAgEAL0Vu`
-![](../Pasted%20image%2020251103194935.png)
+
 
