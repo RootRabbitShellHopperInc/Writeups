@@ -114,3 +114,5 @@ First things first, we take a look at the source code.
 
 We find an interesting string inside the paragraph tag. **940d71e8655ac41efb5f8ab850668505b86dd64186a66e57d1483e7f5fe6fd81**
 
+We're told we need to use the provided wordlist to crack this hash, so let's pull out one of my favorite password cracking tools, John the Ripper !
+
