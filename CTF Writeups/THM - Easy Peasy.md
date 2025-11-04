@@ -102,4 +102,14 @@ As usual, I'm going to pop it into CyberChef and see if it can decipher this for
 
 ![](../Pasted%20image%2020251103195738.png)
 
-Jackpot ! This was base62 encoded and it seems to have given us a hidden directory named: **/n0th1ng3ls3m4tt3r**. So I enter this into the URL a
+Jackpot ! This was base62 encoded and it seems to have given us a hidden directory named: **/n0th1ng3ls3m4tt3r**. So I appended this to the URL http://10.201.66.137:65524/n0th1ng3ls3m4tt3r/ and get the following: 
+
+![](../Pasted%20image%2020251103195930.png)
+
+It seems we have entered the matrix lol.
+
+First things first, we take a look at the source code.
+
+![](../Pasted%20image%2020251103200013.png)
+
+We find an interesting string inside the paragraph tag. 940d71e8655ac41efb5f8ab850668505b86dd64186a66e57d1483e7f5fe6fd81**
