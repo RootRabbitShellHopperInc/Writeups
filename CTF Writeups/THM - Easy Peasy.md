@@ -133,13 +133,13 @@ Ladies and gentlemen, we have our password !
 
 Something I also noticed upon viewing the source code for the page, was a locally stored jpeg file entitled "binarycodepixabay.jpg". It's a shot in the dark, but we could run an autopsy on the metadata of this image and see what lies within. 
 
-For some reason the actual autopsy application I couldn't get to run, so I installed a different program called stegseek that can more or less do what I was looking for.
+For some reason the actual autopsy application I couldn't get to run, so I installed a different program called steghide and stegseek that can more or less do what I was looking for.
 
 Here is invoked command I used for stegseek: `stegseek easypeasybinary.jpg easypeasy.txt`
 
 ![](../Pasted%20image%2020251103205435.png)
 
-Interesting, not only did it give us the password, it also revealed a new file called "secrettxt.txt"
+Interesting, not only did it give us the password, it also revealed a new file called "secrettext.txt"
 
 ## SSH Into the Machine
 
