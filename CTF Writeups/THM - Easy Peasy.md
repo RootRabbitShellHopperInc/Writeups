@@ -198,3 +198,9 @@ I used nano to read the contents of the script.
 Hm, so this script immediately brings my mind to a possible reverse shell.
 
 Googling around for a shortcut to a reverse shell I happened upon https://www.revshells.com/. 
+
+![](../Pasted%20image%2020251103213957.png)
+
+As always for reverse shells, we set up a listener on our host machine using netcat: `nc -nlvp 4444`
+
+Then we copy the script into mysecretcronjob.sh on the target machine.
