@@ -164,8 +164,8 @@ password: iconvertedmypasswordtobinary**
 
 Next we are tasked with logging in remotely to the target machine.
 So let's invoke our ssh command which is as follows:
-`ssh boring@10.201.66.137
-`
+`ssh boring@10.201.66.137 -p 6498
+`password: iconvertedmypasswordtobinary`
 
 
 
