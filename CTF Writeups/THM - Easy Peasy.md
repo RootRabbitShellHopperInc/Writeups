@@ -131,6 +131,8 @@ Let's finally crack this password by invoking the following command:
 
 Ladies and gentlemen, we have our password !
 
+Something I also noticed upon viewing teh source code for the page, was a locally stored jpeg
+
 ## SSH Into the Machine
 
 Next we are tasked with logging in remotely to the target machine.
