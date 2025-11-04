@@ -88,7 +88,11 @@ And presto, we have our second flag ! **flag{1m_s3c0nd_fl4g}**
 Next I decided to take a look at http://10.201.66.137:65524/ itself and see if I could get any other leads. ![](../Pasted%20image%2020251103192541.png)
 ![](../Pasted%20image%2020251103192557.png)
 
-Nothing Immediately stood out to me. Let's take a look at the source code and see if any hints are left for us. There was an interesting seemingly base encoded string, based off the hint, that was left for us. **ObsJmP173N2X6dOrAgEAL0Vu**
+Nothing Immediately stood out to me. Let's take a look at the source code and see if any hints are left for us. There was an interesting possibly base encoded string, based off the hint, that was left for us, **ObsJmP173N2X6dOrAgEAL0Vu** let's take a look at that a bit later.
+
+![](../Pasted%20image%2020251103195419.png)
+
+Thankfully, flag 3 is right out there in the open up for grabs !
 
 ![](../Pasted%20image%2020251103192748.png)
 
