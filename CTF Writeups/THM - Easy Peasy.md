@@ -45,7 +45,7 @@ We're greeted with a page that reads "dead end". Poking around in the source cod
 
 ![](../Pasted%20image%2020251103165047.png)
 
-Beside hidden, there appears to be some type of hash. Lets check it out in CyberChef and see if anything interesting happens. 
+Beside hidden, there appears to be some type of encoded line or hash. Let's check it out in CyberChef and see if anything interesting happens. 
 
 ![](../Pasted%20image%2020251103165127.png)
 
@@ -70,3 +70,6 @@ So I hop to the URL and find an interesting user-agent:
 ![](../Pasted%20image%2020251103191110.png)
 
 Let's once again try to input this into CyberChef and see if anything comes of it.
+CyberChef unfortunately wasn't able to work its magic for us this time.
+
+I thought this would 
