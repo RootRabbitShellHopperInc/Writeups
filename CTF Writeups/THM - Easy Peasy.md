@@ -180,3 +180,7 @@ We find a flag that is apparently rotated. As always our go to will be CyberChef
 Another flag secure after trying ROT13. **flag{n0wits33msn0rm4l}**
 
 *Note: There was a problem with the machine expiring and I got kicked out. The new IP address will be 10.201.37.73*
+
+I tried to run sudo -l to see which permissions the current user to use sudo for and this account was not part of the sudoers group.
+
+Thinking back to a recent linux privilege escalation room I completed, I decided to enter the crontab folder using: `cat /etc/crontab`
