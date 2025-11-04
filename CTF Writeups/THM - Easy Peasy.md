@@ -135,7 +135,7 @@ Something I also noticed upon viewing the source code for the page, was a locall
 
 For some reason the actual autopsy application I couldn't get to run, so I installed a different program called steghide and stegseek that can more or less do what I was looking for.
 
-Here is invoked command I used for stegseek: `stegseek easypeasybinary.jpg easypeasy.txt`
+Here is the command I used for stegseek: `stegseek easypeasybinary.jpg easypeasy.txt`
 
 ![](../Pasted%20image%2020251103205435.png)
 
@@ -183,7 +183,7 @@ Another flag secure after trying ROT13. **flag{n0wits33msn0rm4l}**
 
 *Note: There was a problem with the machine expiring and I got kicked out. The new IP address will be 10.201.37.73*
 
-I tried to run sudo -l to see which permissions the current user to use sudo for and this account was not part of the sudoers group.
+I tried to run `sudo -l` to see which permissions the current user to use sudo for and this account was not part of the sudoers group.
 
 Thinking back to a recent linux privilege escalation room I completed, I decided to enter the crontab folder using: `cat /etc/crontab`
 
