@@ -72,4 +72,8 @@ So I hop to the URL and find an interesting user-agent:
 Let's once again try to input this into CyberChef and see if anything comes of it.
 CyberChef unfortunately wasn't able to work its magic for us this time.
 
-I thought this would 
+I thought this could be some type of hash and went to https://crackstation.net/ to see if I could get lucky. 
+
+![](../Pasted%20image%2020251103191523.png)
+
+Unfortunately Crack Station couldn't help here either. We'll most likely need a more powerful hash cracking tool to progress further.
