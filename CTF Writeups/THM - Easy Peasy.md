@@ -127,3 +127,7 @@ The hint given by THM appears to tell us that this is a GOST hash.
 Let's finally crack this password by invoking the following command:
 `john --format=gost --wordlist=/home/rootrabbit/Downloads/easypeasy.txt ephash.txt`
 
+![](../Pasted%20image%2020251103202107.png)
+
+Ladies and gentlemen, we have our password !
+
