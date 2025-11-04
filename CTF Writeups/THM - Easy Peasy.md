@@ -93,3 +93,7 @@ Nothing Immediately stood out to me. Let's take a look at the source code and se
 ![](../Pasted%20image%2020251103192748.png)
 
 As usual, I'm going to pop it into Cyber Chef and see if it can decipher this for us.
+
+![](../Pasted%20image%2020251103193048.png)
+
+Cyber Chef seems to think this could be base64 or base85 Although, neither option produced a human-readable result. 
