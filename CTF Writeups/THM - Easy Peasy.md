@@ -65,3 +65,8 @@ Here I was stuck for a bit and felt like I was out of options until I took a loo
 
 ![](../Pasted%20image%2020251103190936.png)
 
+So I hop to the URL and find an interesting user-agent:
+
+![](../Pasted%20image%2020251103191110.png)
+
+Let's once again try to input this into CyberChef and see if anything comes of it.
