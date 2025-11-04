@@ -141,6 +141,11 @@ Here is invoked command I used for stegseek: `stegseek easypeasybinary.jpg easyp
 
 Interesting, not only did it give us the password, it also revealed a new file called "secrettext.txt"
 
+I used the following command with steghide to extract the data using the following command: `steghide extract -sf easypeasybinary.jpeg -v
+
+![](../Pasted%20image%2020251103210242.png)
+
+We can now
 ## SSH Into the Machine
 
 Next we are tasked with logging in remotely to the target machine.
