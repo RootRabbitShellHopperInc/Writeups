@@ -167,12 +167,8 @@ So let's invoke our ssh command which is as follows:
 `ssh boring@10.201.66.137 -p 6498
 `password: iconvertedmypasswordtobinary`
 
+![](../Pasted%20image%2020251103211430.png)
 
+We're greeted by this weird message regarding an AC-130 firing and some government blah blah blah. Let's poke around and see what we can find. 
 
-
-Let's start by enumerating our newest directory and see what comes up.
-
-![](../Pasted%20image%2020251103202600.png)
-
-We get a ton for code 403s meaning these files exist, however we don't have permission to access them. 
-
+![](../Pasted%20image%2020251103211509.png)
