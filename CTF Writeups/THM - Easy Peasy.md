@@ -204,3 +204,8 @@ Googling around for a shortcut to a reverse shell I happened upon https://www.re
 As always for reverse shells, we set up a listener on our host machine using netcat: `nc -nlvp 4444`
 
 Then we copy the script into mysecretcronjob.sh on the target machine.
+![](../Pasted%20image%2020251103214300.png)
+
+Next we run the script !
+
+![](../Pasted%20image%2020251103214240.png)
