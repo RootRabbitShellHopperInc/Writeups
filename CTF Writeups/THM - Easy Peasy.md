@@ -59,3 +59,6 @@ Bingo ! We got a hit in CyberChef with a Base64 decode that reveals "flag{f1rs7_
 
 ![](../Pasted%20image%2020251103173029.png)
 
+*Note: I switched to my kali OS rather than the AttackBox at this time for faster response times whilst enumerating, so the target IP will differ from here on to 10.201.66.137.*
+
+Here I was stuck for a bit
