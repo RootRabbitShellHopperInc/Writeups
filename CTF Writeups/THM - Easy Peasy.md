@@ -112,4 +112,5 @@ First things first, we take a look at the source code.
 
 ![](../Pasted%20image%2020251103200013.png)
 
-We find an interesting string inside the paragraph tag. 940d71e8655ac41efb5f8ab850668505b86dd64186a66e57d1483e7f5fe6fd81**
+We find an interesting string inside the paragraph tag. **940d71e8655ac41efb5f8ab850668505b86dd64186a66e57d1483e7f5fe6fd81**
+
