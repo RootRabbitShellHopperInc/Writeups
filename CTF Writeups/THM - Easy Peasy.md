@@ -139,3 +139,4 @@ Let's start by enumerating our newest directory and see what comes up.
 ![](../Pasted%20image%2020251103202600.png)
 
 We get a ton for code 403s meaning these files exist, however we don't have permission to access them. 
+
