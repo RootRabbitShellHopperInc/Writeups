@@ -209,3 +209,8 @@ Then we copy the script into mysecretcronjob.sh on the target machine.
 Next we run the script !
 
 ![](../Pasted%20image%2020251103214240.png)
+
+Annnnnd we're in !
+
+![](../Pasted%20image%2020251103214339.png)
+
