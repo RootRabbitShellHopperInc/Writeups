@@ -195,4 +195,6 @@ I used nano to read the contents of the script.
 
 ![](../Pasted%20image%2020251103213500.png)
 
-Hm, so this script immeditately brings my mind to reve
+Hm, so this script immediately brings my mind to a possible reverse shell.
+
+Googling around for a shortcut to a reverse shell I happened upon https://www.revshells.com/. 
