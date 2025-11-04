@@ -158,11 +158,18 @@ This password clearly appears to be binary, so let's pop that into CyberChef and
 
 Now that we have the password, let's update our credentials to move on to the next phase of the host exploitation.
 
-user: boring
-pass
+**user: boring
+password: iconvertedmypasswordtobinary**
 ## SSH Into the Machine
 
 Next we are tasked with logging in remotely to the target machine.
+So let's invoke our ssh command which is as follows:
+`ssh boring@10.201.66.137
+`
+
+
+
+
 Let's start by enumerating our newest directory and see what comes up.
 
 ![](../Pasted%20image%2020251103202600.png)
