@@ -145,7 +145,14 @@ I used the following command with steghide to extract the data using the followi
 
 ![](../Pasted%20image%2020251103210242.png)
 
-We can now
+We can now cat the contents of secrettext.txt which reveals a username and password. 
+
+username: boring
+password: 01101001 01100011 01101111 01101110 01110110 01100101 01110010 01110100 01100101 01100100 01101101 01111001 01110000 01100001 01110011 01110011 01110111 01101111 01110010 01100100 01110100 01101111 01100010 01101001 01101110 01100001 01110010 01111001
+
+This password clearly appears to be binary, so let's pop that into CyberChef and see what it gives us.
+
+![](../Pasted%20image%2020251103210355.png)
 ## SSH Into the Machine
 
 Next we are tasked with logging in remotely to the target machine.
