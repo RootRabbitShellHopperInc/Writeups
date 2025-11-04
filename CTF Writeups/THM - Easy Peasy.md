@@ -92,15 +92,14 @@ Nothing Immediately stood out to me. Let's take a look at the source code and se
 
 ![](../Pasted%20image%2020251103195419.png)
 
-Thankfully, flag 3 is right out there in the open up for grabs ! flag{9fdafbd64c47471a8f54cd3fc64cd312}
+Thankfully, flag 3 is right out there in the open up for grabs ! **flag{9fdafbd64c47471a8f54cd3fc64cd312}**
 
 ![](../Pasted%20image%2020251103192748.png)
 
-As usual, I'm going to pop it into CyberChef and see if it can decipher this for us using the hint that it could be base encoded
+As usual, I'm going to pop it into CyberChef and see if it can decipher this for us using the hint that it could be base encoded.
 
 ![](../Pasted%20image%2020251103193048.png)
 
+![](../Pasted%20image%2020251103195738.png)
 
-
-
-
+Jackpot ! This was base62 encoded and it seems to have given us a hidden directory named: **/n0th1ng3ls3m4tt3r**. So I enter this into the URL a
