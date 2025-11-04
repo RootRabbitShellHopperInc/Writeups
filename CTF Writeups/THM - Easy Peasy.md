@@ -131,7 +131,9 @@ Let's finally crack this password by invoking the following command:
 
 Ladies and gentlemen, we have our password !
 
-Something I also noticed upon viewing teh source code for the page, was a locally stored jpeg
+Something I also noticed upon viewing teh source code for the page, was a locally stored jpeg file entitled "binarycodepixabay.jpg". It's a shot in the dark, but we could run an autopsy on the metadata of this image and see what lies within. 
+
+
 
 ## SSH Into the Machine
 
