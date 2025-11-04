@@ -96,4 +96,6 @@ As usual, I'm going to pop it into Cyber Chef and see if it can decipher this fo
 
 ![](../Pasted%20image%2020251103193048.png)
 
-Cyber Chef seems to think this could be base64 or base85 Although, neither option produced a human-readable result. Neither crackstation or md5hasing.net could produce
+Cyber Chef seems to think this could be base64 or base85 Although, neither option produced a human-readable result. Neither crackstation or md5hasing.net could produce a result for us. Let's try local hash cracking tool called hashcat. Looking back at the assignment questions, we are instructed to use the downloadable wordlist to crack this hash. 
+
+``
