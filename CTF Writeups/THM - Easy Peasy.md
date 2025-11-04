@@ -120,3 +120,7 @@ First lets save this hash into a txt file so JTR is able to read it.
 
 ![](../Pasted%20image%2020251103201246.png)
 
+The hint given by THM appears to tell us that this is a GOST hash. 
+
+![](../Pasted%20image%2020251103201751.png)
+
