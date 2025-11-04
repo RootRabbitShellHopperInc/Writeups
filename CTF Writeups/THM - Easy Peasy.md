@@ -179,3 +179,4 @@ We find a flag that is apparently rotated. As always our go to will be CyberChef
 
 Another flag secure after trying ROT13. **flag{n0wits33msn0rm4l}**
 
+*Note: There was a problem with the machine expiring and I got kicked out. The new IP address will be *
