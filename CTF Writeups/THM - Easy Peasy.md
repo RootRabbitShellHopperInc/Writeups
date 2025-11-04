@@ -184,3 +184,7 @@ Another flag secure after trying ROT13. **flag{n0wits33msn0rm4l}**
 I tried to run sudo -l to see which permissions the current user to use sudo for and this account was not part of the sudoers group.
 
 Thinking back to a recent linux privilege escalation room I completed, I decided to enter the crontab folder using: `cat /etc/crontab`
+
+![](../Pasted%20image%2020251103212741.png)
+
+There is a particularly interesting bash script called .mysecretcronjob.sh located in /var/www
