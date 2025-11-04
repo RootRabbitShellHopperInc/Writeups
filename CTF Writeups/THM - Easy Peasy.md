@@ -223,4 +223,6 @@ Next let's head to the root directory and run `ls -la`
 Now we cat .root.txt and get: **flag{63a9f0ea7bb98050796b649e85481845}**
 
 
-Great job Shell Hoppers, that was a tough o
+Great job Shell Hoppers, that was a tough one !
+
+![](../Pasted%20image%2020251103214814.png)
