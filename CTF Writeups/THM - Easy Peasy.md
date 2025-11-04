@@ -187,4 +187,12 @@ Thinking back to a recent linux privilege escalation room I completed, I decided
 
 ![](../Pasted%20image%2020251103212741.png)
 
-There is a particularly interesting bash script called .mysecretcronjob.sh located in /var/www
+There is a particularly interesting bash script called .mysecretcronjob.sh located in /var/www. So I navigated to that directory and had to use `ls -la` to see the hidden files and who had permissions. 
+
+![](../Pasted%20image%2020251103213418.png)
+
+I used nano to read the contents of the script. 
+
+![](../Pasted%20image%2020251103213500.png)
+
+Hm, so this script immeditately brings my mind to reve
